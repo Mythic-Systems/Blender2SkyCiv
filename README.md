@@ -3,11 +3,11 @@ A little script that turns an object into a SkyCiv project with wind and live lo
 
 Open the .blend, go to Scripting tab, alt-P to run script
 
-Edit shape in Edit Mode
+Edit shape in Edit Mode, I recommend throwing snap to grid on.
 
 Any node at elevation 0 gets an anchor
 
-Any face gets a wind load or a live load
+Any face gets a wind load or a live load. Dig into the code to edit file save location, loads, etc. 
 
 
 ## Todos 
